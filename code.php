@@ -50,14 +50,7 @@ $mb = $kb*$c;
 $gb = $mb*$c;
 $tb = $gb*$c;
 
-	$test = false;
 	
-	if (isset($test)) {
-		echo '+';
-	} else {
-		echo '-';
-	}
-
 
 
 
